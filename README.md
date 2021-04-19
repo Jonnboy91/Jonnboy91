@@ -25,10 +25,7 @@
 <img align="left" alt="Sass" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="NodeJS" height="40" width="40" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/nodejs.svg" />
 <img align="left" alt="Android" height="40" width="40" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/android.svg" />
+<img align="left" alt="Android" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" />
 <img align="left" alt="Flutter" height="40" width="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 <img align="left" alt="Android Studio" height="40" width="40" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/android-studio.svg" />
 <img align="left" alt="Unity" height="40" width="40" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-
