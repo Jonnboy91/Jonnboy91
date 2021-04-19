@@ -1,8 +1,8 @@
 ### Hi there I'm Jon, former sales & recruitment professional and now an aspiring developer👋
 
-## I'm a developer who is at the moment majoring in mobile development.
 - ⚡ I have over 8 years of experience in sales and recruitment, but my passion for technology took me back to school.
 - 👨🏼‍🎓 I'm currently studying Information and Communication Technology at [Metropolia University of Applied Sciences](https://metropolia.fi).
+- 🎓 Majoring in Mobile Development.
 - 💻 I’m currently working on [SIMHE-app](https://www.metropolia.fi/en/rdi/rdi-projects/simheapp-ii) project as a mobile developer (Flutter/dart).
 - 💪 Random fact: I'm undefeated in a boxing ring (welllll to be honest I got one match under my belt and never stepping in the ring again, might be the reason for that 😄).
 
