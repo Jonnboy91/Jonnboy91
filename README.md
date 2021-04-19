@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I'm undefeated in a boxing ring (welll I got one match under my belt and never stepping in the ring again, might be the reason for that 😄)
 
 
-###Connect with me:
+### Connect with me:
 
 🌎 Website: [jonnesten.fi](https://jonnesten.fi/)  
 💼 LinkedIn: [Jon Nesten](https://www.linkedin.com/in/jonnesten/)
